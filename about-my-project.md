@@ -4,12 +4,12 @@
 
 Problem: There is a lack of reasearch available to growers and breeders regarding the cannabinoid contents of various varieties of cannabis.
 
-Approach: During this project, I will assist in designing a system that accomplishes the following:
+Approach: During this project, I will support a number of efforts including:
 
   - 
   - 
   - 
 
-Expected Outcome: The project is expected to result in a conference poster presentation at the end of the DREU program. The poster will focus on the system's technical architecture.
+Expected Outcome: The project is expected to 
 
 
