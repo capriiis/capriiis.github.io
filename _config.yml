@@ -1,6 +1,6 @@
 title: Capri S. CEAMLS SAIRI Website Summer 2024 
-logo: img/CS.jpg
+logo: assets/img/CS.jpg
 description: Hi! My name is Capri Shorter and this is my CEAMLS SAIRI Website for Summer 2024.
-show_downloads: true
+show_downloads: true 
 google_analytics:
 theme: jekyll-theme-minimal
