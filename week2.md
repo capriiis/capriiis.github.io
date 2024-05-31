@@ -1,3 +1,12 @@
 ---
+layout: post
 title: SAIRI Week 2
-By: Capri Shorter
+by: Capri Shorter
+---
+
+During Week 2 of the SAIRI, 
+
+
+
+
+
