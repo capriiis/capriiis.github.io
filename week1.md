@@ -10,6 +10,10 @@ During the first week, the cohort had the opportunity to build on Python and Git
 [My Python 101 Colab Notebook](https://colab.research.google.com/drive/1huGh-px3PFgSyNG9SundaxQUtTcvl7TR?usp=sharing)
 
 [ML w/ Scikit Learn Colab Notebook](https://colab.research.google.com/drive/1I8mb1l7ayVEx3WBm76rH6DwoJIFvJFDv?usp=sharing) 
+
+[Data Analysis w/ Pandas & NumPy Colab Notebook](https://colab.research.google.com/drive/1AkdPtif_r8CKxAuJL6_e34jVgVxSd8a1?usp=sharing)
+
+[NumPy Exercises Colab Notebook](https://colab.research.google.com/drive/19D4_ufMUscPEC6Kt3xhHlNixTEjYVuhL?usp=sharing)
   
  
 
