@@ -1,14 +1,8 @@
 ## About My Project
 
-[Contents of Cannabinoids in Hemp Varieties Grown in Maryland](https://pubs.acs.org/doi/10.1021/acsomega.1c04992?ref=pdf)
+EMOTIGEN
 
-Problem: There is a lack of reasearch available to growers and breeders regarding the cannabinoid contents of various varieties of cannabis.
+In recent years, the field of natural language processing (NLP) has made remarkable strides leading to the development of “intelligent” models capable of generating coherent and contextually appropriate text. However, a critical issue with large language models (LLMs) and NLP that remains unresolved is the cultural competency of text generation systems. EmotiGen aims to address this gap by combining state-of-the-art NLP models with advanced emotion detection techniques to create an innovative system for emotion-aware text generation for African-American users who speak dialects outside of Standard American English (SAE). Designed to allow African-American users the opportunity to unpack and navigate their emotions using African-American Vernacular English (AAVE), EmotiGen will serve as a culturally-competent and emotionally intelligent friend. Concocting emotion detection techniques, natural language processing (NLP) and a large language model (LLM), EmotiGen is intended to enhance emotion-aware text generation for African-Americans who've been underserved and negatively impacted by prejudiced linguistic ideologies. Leveraging these models and techniques, EmotiGen analyzes text to discern underlying emotions and generates responses aligned with the detected emotional context. Having significant potential for applications in educational and therapeutic contexts, EmotiGen can create interactive, emotionally intelligent learning materials or therapeutic aids. These applications are particularly effective in providing personalized support sensitive to the emotional states of historically disenfranchised learners or patients who identify as African-American. With the unique functionality of EmotiGen to generate content that mirrors the linguistic nuances of AAVE, Black slang, and Black English, we hope to foster more authentic and supportive interactions for African-Americans who may otherwise feel unheard or misunderstood.
 
-Outcomes of Prior Research: "In summary, low uniformity between varieties was extensively seen for the tested cannabinoids, which probably was a combined effect of genetic diversity, environmental conditions, and growers’ operation. Low uniformity within variety regarding cannabinoid content was observed as well, illustrating the need for improving genotype consistency of cannabis and optimizing the cultivation conditions. (83,84) The results of this research provide reference information for the selection of hemp varieties for cannabinoid production purposes as to high yield and uniformity."
-
-
-Sources:
-
-[ACS Publications. (2021). Study title. ACS Omega.] (https://pubs.acs.org/doi/10.1021/acsomega.1c04992)
 
 
