@@ -17,4 +17,5 @@ During the first week, the cohort had the opportunity to build on Python and Git
   
 
 [Week 2](./week2.md)
+
 [Back](./)
