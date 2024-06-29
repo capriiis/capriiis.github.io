@@ -15,6 +15,6 @@ During the first week, the cohort had the opportunity to build on Python and Git
 
 [NumPy Exercises Colab Notebook](https://colab.research.google.com/drive/19D4_ufMUscPEC6Kt3xhHlNixTEjYVuhL?usp=sharing)
   
- 
 
+[Week 2](./week2.md)
 [Back](./)
