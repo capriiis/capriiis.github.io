@@ -10,4 +10,5 @@ I plan to continue to discuss the philosophy and methodology behind our approach
 cultural and ethical implications, and more with my team in Week 4.  
 
 [Week 4](./week4.md)
+
 [Back](./)
