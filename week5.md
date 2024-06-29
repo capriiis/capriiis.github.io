@@ -15,7 +15,7 @@ the text was challenging at times due to missing context. I am interested to see
 group in Week 6.
 
 [Week 6](./week6.md)
----
+
 
 [Back](./)
 
