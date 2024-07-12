@@ -8,4 +8,6 @@ During Week 6 of the program, my team and I prepared to present our project at t
 The symposium was cancelled and instead the institute convened for town halls to create an opportunity
 for open dialogue, feedback, and suggestions for improved operations and student experiences.
 
+[Week 7](./week7.md)
+
 [Back](./)
