@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SAIRI Week 4
+title: SAIRI Week 4: Data Cleaning
 author: Capri Shorter
 ---
 
