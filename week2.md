@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SAIRI Week 2
+title: SAIRI Week 2: Project Discovery
 author: Capri Shorter
 ---
 
