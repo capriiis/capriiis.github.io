@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SAIRI Week 1
+title: SAIRI Week 1: Think Like a Programmer
 author: Capri Shorter
 ---
 
