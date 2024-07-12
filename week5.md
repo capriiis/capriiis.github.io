@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SAIRI Week 5
+title: SAIRI Week 5: Data Analysis & Annotation
 author: Capri Shorter
 ---
 
