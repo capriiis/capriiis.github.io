@@ -9,6 +9,6 @@ I also created short-form prompts to help cutdown runtime for the RAG model.
 I plan to continue to discuss the philosophy and methodology behind our approach, what's in and out of scope, metrics, DoD, LLM outputs, 
 cultural and ethical implications, and more with my team in Week 4.  
 
-[Week 4](./week4.md)
+[Week 4: Data Cleaning](./week4.md)
 
 [Back](./)
