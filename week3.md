@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SAIRI Week 3
+title: SAIRI Week 3: Literature Review & Prompt Engineering
 author: Capri Shorter
 ---
 
