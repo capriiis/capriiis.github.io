@@ -14,7 +14,7 @@ The audio for the transcribed conversation was inaudible at many points within t
 the text was challenging at times due to missing context. I am interested to see the results of the comparative analysis with my
 group in Week 6.
 
-[Week 6](./week6.md)
+[Week 6: Town Hall](./week6.md)
 
 
 [Back](./)
