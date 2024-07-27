@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SAIRI Week 9
+title: SAIRI Week 9: SQL Commands + AI Governance
 author: Capri Shorter
 ---
 
