@@ -7,6 +7,6 @@
 - [Week 5: Data Analysis & Annotation](./week5.md)
 - [Week 6: Town Hall](./week6.md)
 - [Week 7: Mid-Summer Symposium](./week7.md)
-- [Week 8: Designing a SQL Database](./week8.md)
-- [Week 9](./week9.md)
+- [Week 8: Building a SQL Database](./week8.md)
+- [Week 9: SQL Commands + AI Governance](./week9.md)
 - [Week 10](./week10.md)
