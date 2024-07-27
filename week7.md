@@ -8,6 +8,6 @@ During the seventh week, my group presented our project to the rest of the progr
 An opportunity to share our project objectives, findings, individual contributions, and next steps, 
 the symposium allowed all participants to learn about the other projects that are underway and how our work intersects.  
 
-
+[Week 8: Building a SQL Database](./week8.md)
 
 [Back](./)
