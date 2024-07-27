@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SAIRI Week 8
+title: SAIRI Week 8: Building a SQL Database
 author: Capri Shorter
 ---
 
