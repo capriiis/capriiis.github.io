@@ -9,4 +9,4 @@
 - [Week 7: Mid-Summer Symposium](./week7.md)
 - [Week 8: Building a SQL Database](./week8.md)
 - [Week 9: SQL Commands + AI Governance](./week9.md)
-
+- [Week 10: Final Week](./week10.md)
